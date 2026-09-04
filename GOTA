@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pre‑estreno: Gota a Gota</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #e6f7ff; }
+    header { background: #0077b6; color: white; padding: 20px; text-align: center; }
+    nav { background: #023e8a; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    h2 { color: #0077b6; }
+    footer { background: #caf0f8; text-align: center; padding: 10px; }
+    .teaser { background: #90e0ef; padding: 15px; border-radius: 8px; text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>💧 Gota a Gota: Las cartas se agotan</h1>
+    <p>Grupo: Jimena Valverde y Nicole Salazar</p>
+    <p>Tema: Concientización sobre el uso adecuado del agua</p>
+  </header>
+
+  <nav>
+    <a href="#historia">Historia</a>
+    <a href="#reglas">Reglas</a>
+    <a href="#jugabilidad">Jugabilidad</a>
+    <a href="#prototipo">Prototipo</a>
+  </nav>
+
+  <section id="historia">
+    <h2>Historia</h2>
+    <p>En un reino no muy lejano, decían que el agua era inagotable y potable, pero de repente ese recurso comenzó a escasear debido al desperdicio y al mal uso de los ciudadanos. 
+    Ante esta situación, el rey decide crear unas leyes para enseñar a las personas que cada gota cuenta. 
+    Así nace <strong>Gota a Gota: las cartas se agotan</strong>, un juego en el que los participantes deberán encontrar parejas de tarjetas mientras descubren diferentes acciones para cuidar y ahorrar agua.</p>
+  </section>
+
+  <section id="reglas">
+    <h2>Reglas del Juego</h2>
+    <ul>
+      <li>En su turno, el jugador voltea SOLO 2 cartas, una por una.</li>
+      <li>Si son iguales: se queda con las cartas y vuelve a jugar.</li>
+      <li>Si son distintas: las vuelve a poner boca abajo y pasa el turno.</li>
+      <li>El juego termina cuando no quedan cartas boca abajo.</li>
+      <li>Gana el jugador con más parejas acumuladas.</li>
+    </ul>
+  </section>
+
+  <section id="jugabilidad">
+    <h2>Jugabilidad</h2>
+    <p>Primero se colocan todas las tarjetas boca abajo y se mezclan. 
+    Cada jugador, durante su turno, voltea dos tarjetas. 
+    Si forman una pareja, el jugador se las queda y continúa. 
+    Si no coinciden, se vuelven a colocar boca abajo y pasa el turno al siguiente jugador. 
+    Al terminar todas las tarjetas, se cuentan las parejas y gana quien consiga más.</p>
+  </section>
+
+  <section id="prototipo">
+    <h2>Diseño del Prototipo</h2>
+    <div class="teaser">
+      <p>🎴 Este es un adelanto del concepto y reglas del juego.</p>
+      <p><em>¡Muy pronto disponible en versión interactiva!</em></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Gota a Gota - Conciencia sobre el agua</p>
+  </footer>
+</body>
+</html>
